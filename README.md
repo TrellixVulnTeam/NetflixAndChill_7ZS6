@@ -21,6 +21,10 @@ Netflix and Chill is a web app that allows users to see a list of all available 
 
 * Bootstrap, CSS3, and Sass used for styling.
 
+## Online demo
+
+Visit https://netflixandchillreact.herokuapp.com/
+
 ## Testing the app locally
 
 * [Clone the repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
