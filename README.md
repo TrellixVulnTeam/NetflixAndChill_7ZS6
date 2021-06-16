@@ -13,19 +13,19 @@ Netflix and Chill is a web app that allows users to see a list of all available 
 6. View virtual hangouts added by other users.
 
 ## Tech
-React for frontend (functional components with Hooks - useState, useEffect, useRef, useHistory, custom Hooks and React Router). 
+* React for frontend (functional components with Hooks - useState, useEffect, useRef, useHistory, custom Hooks and React Router). 
 
-Node and Express used for backend, MongoDB for database.
+* Node and Express used for backend, MongoDB for database.
 
-uNoGS API used with axios to get all titles. 
+* uNoGS API used with axios to get all titles. 
 
-Bootstrap, CSS3, and Sass used for styling.
+* Bootstrap, CSS3, and Sass used for styling.
 
 ## Testing the app locally
 
-[Clone the repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
+* [Clone the repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
 
-Run the following command in the root directory: 
+* Run the following command in the root directory: 
  
 ### `npm run dev`
 
