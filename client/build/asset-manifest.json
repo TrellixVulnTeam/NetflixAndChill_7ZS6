@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24e4a647.chunk.css",
+    "main.js": "/static/js/main.a1e0b78b.chunk.js",
+    "main.js.map": "/static/js/main.a1e0b78b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.856f4b1e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.856f4b1e.js.map",
+    "static/css/2.cd8394d9.chunk.css": "/static/css/2.cd8394d9.chunk.css",
+    "static/js/2.1766cf71.chunk.js": "/static/js/2.1766cf71.chunk.js",
+    "static/js/2.1766cf71.chunk.js.map": "/static/js/2.1766cf71.chunk.js.map",
+    "static/js/3.7798cce6.chunk.js": "/static/js/3.7798cce6.chunk.js",
+    "static/js/3.7798cce6.chunk.js.map": "/static/js/3.7798cce6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.cd8394d9.chunk.css.map": "/static/css/2.cd8394d9.chunk.css.map",
+    "static/css/main.24e4a647.chunk.css.map": "/static/css/main.24e4a647.chunk.css.map",
+    "static/js/2.1766cf71.chunk.js.LICENSE.txt": "/static/js/2.1766cf71.chunk.js.LICENSE.txt",
+    "static/media/logo.baafa602.png": "/static/media/logo.baafa602.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.856f4b1e.js",
+    "static/css/2.cd8394d9.chunk.css",
+    "static/js/2.1766cf71.chunk.js",
+    "static/css/main.24e4a647.chunk.css",
+    "static/js/main.a1e0b78b.chunk.js"
+  ]
+}
